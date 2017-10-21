@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoIntent</string>
+    <string name="login"></string>
 </resources>
