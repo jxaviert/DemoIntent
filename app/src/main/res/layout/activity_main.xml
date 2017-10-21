@@ -95,4 +95,9 @@
         android:text="Programar alarme"
         android:id="@+id/btProgramarAlarme"
         android:onClick="programarAlarme"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTime"
+        android:textSize="20sp"/>
 </LinearLayout>
